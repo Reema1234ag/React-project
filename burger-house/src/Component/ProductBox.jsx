@@ -4,7 +4,7 @@ import React from 'react';
 function ProductBox(props){
     return(
         <div className='a-box'>
-            <div className='s-b-img'>
+            <div className='a-b-img'>
                 <img src={props.image} alt=''/>
             </div>
 

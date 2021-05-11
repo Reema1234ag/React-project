@@ -36,8 +36,7 @@ function App() {
                 <About/>
                 <Contact/>
                 </>
-        } 
-        </div>
+        } </div >
     );
 }
 

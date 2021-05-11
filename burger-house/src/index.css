@@ -66,7 +66,8 @@ nav ul {
 }
 
 nav ul li a {
-    font-family: 'Bebas Neue';
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
     height: 40px;
     line-height: 43px;
     margin: 3px;
@@ -74,7 +75,6 @@ nav ul li a {
     display: flex;
     font-size: 1.2rem;
     text-transform: uppercase;
-    font-weight: 500;
     color: #3d2514;
     letter-spacing: 1px;
     border-radius: 3px;
@@ -158,7 +158,7 @@ nav .menu-btn,
 
 #products {
     width: 100%;
-    height: 120vh;
+    height: auto;
     box-sizing: border-box;
     font-family: 'Lato';
     display: flex;
@@ -177,10 +177,10 @@ nav .menu-btn,
 }
 
 #products p {
-    font-family: 'Bebas Neue';
-    letter-spacing: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #3d2514;
-    font-size: 0.8rem;
+    font-size: 28px;
+    font-weight: bold;
     margin-top: -15px;
     margin-bottom: 35px;
 }
@@ -283,10 +283,11 @@ nav .menu-btn,
 }
 
 .about-text p {
-    font-family: 'Bebas Neue';
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 1px;
     color: #252525;
-    font-size: 1.2rem;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .about-text button {
